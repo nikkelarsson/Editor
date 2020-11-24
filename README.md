@@ -1,9 +1,13 @@
-Introduction
------------------------------------------
+# Introduction
+
 This is my first proper python
 program. The intention was to
 make it super minimal and configurable
 for anyone.
+
+# Installation
+
+git clonehttps://github.com/nikkelarsson/Editor.git
 
 LICENSE
 -----------------------------------------
