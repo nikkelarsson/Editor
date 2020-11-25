@@ -2,7 +2,7 @@
 Super minimal text-editor for any kind of user!
 
 ## Installation
-git clone https://github.com/nikkelarsson/Editor.git
+* git clone https://github.com/nikkelarsson/Editor.git
 
 ## Licence
 Feel free to modify and share this
