@@ -1,6 +1,10 @@
 ## Introduction
 Super minimal text-editor for any kind of user!
 
+![Screenshot](editor_daym.png)
+![Screenshot](editor_daym2.png)
+![Screenshot](editor_nightm.png)
+
 ## Installation
 * git clone https://github.com/nikkelarsson/Editor.git
 
