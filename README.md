@@ -7,6 +7,7 @@ Super minimal text-editor for any kind of user!
 
 ## Requirements
 * `python3-3.9`
+* `tkinter`
 
 ## Installation
 * git clone https://github.com/nikkelarsson/Editor.git
