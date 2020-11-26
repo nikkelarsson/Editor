@@ -5,6 +5,9 @@ Super minimal text-editor for any kind of user!
 ![Screenshot](editor_daym2.png)
 ![Screenshot](editor_nightm.png)
 
+## Requirements
+* `python3-3.9`
+
 ## Installation
 * git clone https://github.com/nikkelarsson/Editor.git
 
